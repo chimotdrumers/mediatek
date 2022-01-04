@@ -1,0 +1,2 @@
+# mediatek
+flashing tool qualcom
